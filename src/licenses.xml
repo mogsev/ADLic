@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<licenses>
+  <license id="123455555s22jh8867890" key="4" sum="10">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fd234234dsfdf3456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+      <product-key name="Windows Vista MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+    </sum>
+  </license>
+  <license id="123455555s22jh8867890" key="4" sum="10">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fd234234dsfdf3456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">46546546</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Моноблок">1111111111111111</invent-number>
+    </sum>
+  </license>
+  <license id="123455dfgj9239290" key="2" sum="5">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs333dgd123456xvx333cv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+    </sum>
+  </license>
+  <license id="987654321" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-111111</invent-number>
+      <invent-number type="Нотебук">ОС22222</invent-number>
+    </sum>
+  </license>
+  <license id="12345555567890" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs111dgd123456xvxc9999v</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-228888</invent-number>
+      <invent-number type="Нотебук">ОС555456</invent-number>
+    </sum>
+  </license>
+  <license id="123455555s22jh8867890" key="4" sum="10">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fd234234dsfdf3456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+      <product-key name="Windows Vista MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+    </sum>
+  </license>
+  <license id="123455dfgj9239290" key="1" sum="5">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs333dgd123456xvx333cv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+    </sum>
+  </license>
+  <license id="987654321" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-111111</invent-number>
+      <invent-number type="Нотебук">ОС22222</invent-number>
+      <invent-number type="Ноутбук">sdfsdfsdf</invent-number>
+    </sum>
+  </license>
+  <license id="12345555567890" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs111dgd123456xvxc9999v</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-228888</invent-number>
+      <invent-number type="Нотебук">ОС555456</invent-number>
+    </sum>
+  </license>
+  <license id="123455555s22jh8867890" key="4" sum="10">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fd234234dsfdf3456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">2222gfshfghgh sd hsfg hs</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+    </sum>
+  </license>
+  <license id="123455dfgj9239290" key="1" sum="5">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs333dgd123456xvx333cv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+    </sum>
+  </license>
+  <license id="987654321" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-111111</invent-number>
+      <invent-number type="Нотебук">ОС22222</invent-number>
+    </sum>
+  </license>
+  <license id="123456sfdsdf7890" key="2" sum="15">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-456789</invent-number>
+      <invent-number type="Нотебук">ОС123999</invent-number>
+    </sum>
+  </license>
+  <license id="123455555s22jh8867890" key="4" sum="10">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fd234234dsfdf3456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+      <product-key name="Windows Vista MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+    </sum>
+  </license>
+  <license id="12345555567890" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs111dgd123456xvxc9999v</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-228888</invent-number>
+      <invent-number type="Нотебук">ОС555456</invent-number>
+    </sum>
+  </license>
+  <license id="987654321" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-111111</invent-number>
+      <invent-number type="Нотебук">ОС22222</invent-number>
+    </sum>
+  </license>
+  <license id="123456sfdsdf7890" key="2" sum="15">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-456789</invent-number>
+      <invent-number type="Нотебук">ОС123999</invent-number>
+    </sum>
+  </license>
+  <license id="123455555s22jh8867890" key="4" sum="10">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fd234234dsfdf3456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+      <product-key name="Windows Vista MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+    </sum>
+  </license>
+  <license id="123455dfgj9239290" key="1" sum="5">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs333dgd123456xvx333cv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+    </sum>
+  </license>
+  <license id="12345555567890" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs111dgd123456xvxc9999v</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-228888</invent-number>
+      <invent-number type="Нотебук">ОС555456</invent-number>
+    </sum>
+  </license>
+  <license id="987654321" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-111111</invent-number>
+      <invent-number type="Нотебук">ОС22222</invent-number>
+    </sum>
+  </license>
+  <license id="123455dfgj9239290" key="1" sum="5">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs333dgd123456xvx333cv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+    </sum>
+  </license>
+  <license id="12345555567890" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs111dgd123456xvxc9999v</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-228888</invent-number>
+      <invent-number type="Нотебук">ОС555456</invent-number>
+    </sum>
+  </license>
+  <license id="987654321" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-111111</invent-number>
+      <invent-number type="Нотебук">ОС22222</invent-number>
+    </sum>
+  </license>
+  <license id="123456sfdsdf7890" key="2" sum="15">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-456789</invent-number>
+      <invent-number type="Нотебук">ОС123999</invent-number>
+    </sum>
+  </license>
+  <license id="123455555s22jh8867890" key="4" sum="10">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fd234234dsfdf3456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+      <product-key name="Windows Vista MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+    </sum>
+  </license>
+  <license id="123455dfgj9239290" key="1" sum="5">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs333dgd123456xvx333cv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+    </sum>
+  </license>
+  <license id="12345555567890" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs111dgd123456xvxc9999v</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-228888</invent-number>
+      <invent-number type="Нотебук">ОС555456</invent-number>
+    </sum>
+  </license>
+  <license id="987654321" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-111111</invent-number>
+      <invent-number type="Нотебук">ОС22222</invent-number>
+    </sum>
+  </license>
+  <license id="123456sfdsdf7890" key="2" sum="15">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-456789</invent-number>
+      <invent-number type="Нотебук">ОС123999</invent-number>
+    </sum>
+  </license>
+  <license id="123455555s22jh8867890" key="4" sum="10">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fd234234dsfdf3456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+      <product-key name="Windows Vista MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+    </sum>
+  </license>
+  <license id="123455dfgj9239290" key="1" sum="5">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs333dgd123456xvx333cv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+    </sum>
+  </license>
+  <license id="12345555567890" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs111dgd123456xvxc9999v</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-228888</invent-number>
+      <invent-number type="Нотебук">ОС555456</invent-number>
+    </sum>
+  </license>
+  <license id="987654321" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-111111</invent-number>
+      <invent-number type="Нотебук">ОС22222</invent-number>
+    </sum>
+  </license>
+  <license id="123456sfdsdf7890" key="2" sum="15">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgsdgd123456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-456789</invent-number>
+      <invent-number type="Нотебук">ОС123999</invent-number>
+    </sum>
+  </license>
+  <license id="123455555s22jh8867890" key="4" sum="10">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fd234234dsfdf3456xvxcv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+      <product-key name="Windows Vista MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+    </sum>
+  </license>
+  <license id="123455dfgj9239290" key="1" sum="5">
+    <product>Windows Office 2013 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs333dgd123456xvx333cv</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-888888</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+      <invent-number type="Сервер">ОЗТ-555555</invent-number>
+      <invent-number type="Нотебук">ОС123456</invent-number>
+    </sum>
+  </license>
+  <license id="12345555567890" key="3" sum="10">
+    <product>Windows Office 2010 Standart</product>
+    <type>Open Licenses</type>
+    <numberlic>fdgs111dgd123456xvxc9999v</numberlic>
+    <key>
+      <product-key name="Win7 - MAK" type="MAK">11111-22222-33333-44444-55555</product-key>
+      <product-key name="Windows 8 MAK" type="MAK">99999-88888-77777-66666-55555</product-key>
+      <product-key name="Windows 8.1 MAK" type="MAK">33333-44444-55555-66666-77777</product-key>
+    </key>
+    <sum>
+      <invent-number type="Системный блок">ОЗТ-228888</invent-number>
+      <invent-number type="Нотебук">ОС555456</invent-number>
+    </sum>
+  </license>
+  <product-key>
+    <name>Win7 - MAK</name>
+    <name>Windows 8 MAK</name>
+    <name>Windows 8.1 MAK</name>
+    <name>Windows Vista MAK</name>
+    <name>Microsoft Office 2013</name>
+  </product-key>
+  <invent-number>
+    <type>Системный блок</type>
+    <type>Ноутбук</type>
+    <type>Нетбук</type>
+    <type>Сервер</type>
+    <type>Тонкий клиент</type>
+    <type>Лаптоп</type>
+    <type>Моноблок</type>
+  </invent-number>
+  <key>
+    <type>MAK</type>
+    <type>OEM</type>
+    <type>KMS</type>
+    <type>test</type>
+  </key>
+</licenses>
